@@ -119,6 +119,7 @@ div.text div{
     height: 100px;
     justify-content: center;
     align-items: center;
+    width: 100vw;
 }
 
 footer span{
